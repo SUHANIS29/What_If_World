@@ -118,7 +118,7 @@ import google.generativeai as genai
 import random
 
 # --- API Setup ---
-api_key = "AIzaSyCqDJS29W7Eb-gasWpnCSBg2_xS9p76a0g"
+api_key = "AIzaSyB4pK9CWTUprXalUbE37-9KxJERMmypewU"
 genai.configure(api_key=api_key)
 
 # --- Page Config ---
