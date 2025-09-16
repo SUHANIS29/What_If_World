@@ -1,0 +1,7 @@
+streamlit>=1.26
+pandas
+numpy
+matplotlib
+Pillow
+openai
+google-generativeai
